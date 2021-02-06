@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaviDev27&count_private=true&show_icons=true&theme=solarized-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviDev27&theme=solarized-dark&layout=compact)
 
 <!--
 **JaviDev27/JaviDev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
