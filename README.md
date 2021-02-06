@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaviDev27&count_private=true&show_icons=true&theme=algolia)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviDev27&theme=algolia&layout=compact)
 
 <!--
