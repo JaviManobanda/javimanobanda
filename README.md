@@ -10,15 +10,15 @@ I am passionate about technology and software development
 📫 How to reach me:
 
 <a href="https://twitter.com/JaviDev27">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+        <img width="20px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
     
 <a href="https://www.linkedin.com/in/javidev27/">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+        <img width="20px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
     
 <a href="https://www.instagram.com/javidev27/">
-        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+        <img width="20px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 
 ## 🔧 Technologies & Tools
