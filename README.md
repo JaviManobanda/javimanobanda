@@ -9,11 +9,11 @@ I am passionate about technology and software development
 
 📫 How to reach me:
 
-<a href="https://twitter.com/JaviDev27">
+<a href="https://www.linkedin.com/in/javidev27/">
         <img width="27px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
     
-<a href="https://www.linkedin.com/in/javidev27/">
+<a href="https://twitter.com/JaviDev27">
         <img width="27px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
     
