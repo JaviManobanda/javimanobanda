@@ -1,6 +1,6 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=javimanobanda&count_private=true&show_icons=true&theme=algolia)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=javiMiot&count_private=true&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javimanobanda&theme=algolia&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javiMiot&theme=algolia&layout=compact)
 
 
 ## Hellow Word 👋
